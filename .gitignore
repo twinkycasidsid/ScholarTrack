@@ -1,0 +1,17 @@
+# Visual Studio folders
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build output
+bin/
+obj/
+
+# Debug/Release folders
+**/bin/
+**/obj/
+
+# Other
+*.log
